@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mysql-transaction.iml" filepath="$PROJECT_DIR$/.idea/modules/mysql-transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mysql-transaction_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mysql-transaction_main.iml" group="mysql-transaction" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mysql-transaction_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mysql-transaction_test.iml" group="mysql-transaction" />
+    </modules>
+  </component>
+</project>
